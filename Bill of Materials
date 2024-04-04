@@ -1,0 +1,33 @@
+Voltmeter Barometer Bill of materials
+Arduino nano  V3.0, Nano Board ATmega328P 5V 16M Micro-Controller Board Compatible with Arduino IDE (Nano x 3 with USB Cable) , Amazon
+Adafruit MCP4725, 12 bit Digital to analog converter, Amazon
+LM358P, Amazon
+LM317T Adjustable linear regulator , Amazon
+BMP180 GY-68 Digital Barometric Pressure Sensor Module Replace BMP085 for Arduino, Hiletgo/Amazon
+
+12V 1.5A 1500mA Power Supply Adapter 100-240V AC to DC 12Volt Transformers Switching Power Supply 5.5mm x 2.5/2.1mm DC Plug for 12V led Strip Light CCTV Camera, Amazon 
+5Pack ,5.5 x 2.1 MM 10A DC-099 Power Jack Cord Socket Threaded Female Mount Connector Adapter with Waterproof Cover Cap , Amazon 
+
+
+( R1) Trimpot 10k ohm, 10 turn , uxcell 10K Ohm Through Hole 3296 Trim Pot Trimmer Potentiometer 5 Pcs, Amazon 
+
+•	The following resistors were from a kit of resistors obtained from amazon 
+ ( R3) ,5.6K ohm.25 watt , metal film, 5% 
+(R5) , 2k ohm .25 watt, metal film, 1% 
+(R4),10k ohm .25 watt, metal film, 1%
+(R2) , 1k ohm .25watt, metal film ,1%
+
+ (U3) 6.2V Zener diode 1 Watt , 1N4735A , Amazon 
+•	The following capacitors were obtained from a kit of Capacitors obtained from Amazon
+( C2) 0.1uf ceramic cap 35 V , 
+(C1) 1uF, 35V 
+
+•	The protoboard, inline sockets and board pins for the Nano, BMP180, and DAC board were all from a kit of prototype parts from Amazon
+Miuzei PCB Board Prototype Kit for Electronic Projects, Circuit Solder Double-Side Board with 40 Pin 2.54 mm Male to Female Headers Connector, 2P&3P S
+
+•	The Voltmeter 0-6V was a Dallas Meter TEK, DMT-0001 , I found it as a unused surplus meter on EBAY.  I chose this meter because it had a large face ( 5 inch diameter ) and about 270 degree of movement. 
+•	The Meter face overlay was made on a sheet of white glossy photographic paper that was trimmed to size to fit over the existing meter faceplate. I simply used an inkjet printer to print the new scale on the photographic paper. To make the new scale I used a software Application called “Meter” by Tonne Software. Their webpage is https://www.tonnesoftware.com/index.html    - Jim Tonne did give me some assistance in the faceplate design as I had a few questions about getting the design correct . The price was very reasonable and it really made the meter face look totally professional.  The meter design file can also be found on Github although you will need the Tonne Meter software to open it. 
+•	Barometer body : Below the meter face I used a section of 6” PVC sewer pipe cut to about 2.25” length to protect the back of the meter and the application electronics. It was painted Brite metallic gold (Ace Hardware)  to match the brass finish of the meter which was originally painted black. I had removed the black paint with acetone.  A 5.5 mm barrel jack allows quick disconnect of the DC power supply. 
+
+
+
