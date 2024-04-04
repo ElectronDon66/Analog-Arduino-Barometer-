@@ -7,9 +7,9 @@ One of the fun factors on this project was repurposing a 0-6 V meter to have a b
 Also this sketch has some remnant code from a previous barometer project where the  sketch controlled 4 LEDs to indicate whether the pressure trend was increasing or decreasing. Originally, I was going to include the LEDs in this meter but ultimately decided not to. However, the code is in there if you whish to use it. It was debugged and working previously but I’m not 100% sure if its still fully functional. Theoretically all you’d need to add is 4 Leds and 4 current limiting resistors. See the code for imbedded notes. 
 BAROMETER7.mtr IS THE mETER SOFTWARE WORKING FILE. You'll need "Meter to load this file and see it. 
 
-You will need to include the following library files 
+You will need to include the following library files (all are in Github) 
 include <Adafruit_MCP4725.h>
 include <Adafruit_BMP085.h>
 include <Wire.h>
 
-Youtube video - 
+Youtube video link  
