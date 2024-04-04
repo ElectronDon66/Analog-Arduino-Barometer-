@@ -1,0 +1,99 @@
+Filename: C:\Users\mt7k\Documents\Meter Face\Barometer7 .MTR
+#2024-02-06 13:27:33#
+Plate width: 150
+Plate height: 150
+Bottom to bearing: 75
+Bottom to mounting holes: 39
+Hole separation: 125
+Pointer deflection: 250
+Dummy1: 1
+Dummy2: 2 
+Minor ticmark length: -2
+Minor ticmark width: 3
+Major ticmark length: -5
+Major ticmark width: 4
+Font size: 14
+Actual/virtual offset: 0
+Dummy3: 3
+Dummy4: 4
+Plate style: 0
+Draw arcs Y/N:Y
+Label rotation H/V/B:H
+Print text Y/N:Y
+Label spacing: -13
+Font style: Arial
+Number of scales: 2
+Scale color: 2039583
+Scale left end (units): 28
+Scale length (units): 4
+Bottom to title: 62
+Bottom to scale ceiling: 119
+Scale title: 
+Number of ticmarks: 40
+Major ticmarks every how often: 5
+Labels every how many ticmarks: 5
+Linearity exponent: 1
+Scale color: 1
+Scale left end (units): 950
+Scale length (units): 130
+Bottom to title: 35
+Bottom to scale ceiling: 120
+Scale title: 
+Number of ticmarks: 130
+Major ticmarks every how often: 10
+Labels every how many ticmarks: 10
+Linearity exponent: 1
+Draw graphic Y/N:N
+Graphic filename:
+Left to graphic: 5
+Bottom to graphic: 23
+Graphic width: 9
+Graphic height: 9
+Arc width: 2
+Messages: 0
+Texts: 2
+Text 1:in Hg
+Left to text:  71 
+Bottom to text:  48 
+Relative size:  1 
+Color: 8388608
+Text 2:Millibars
+Left to text:  69 
+Bottom to text:  38 
+Relative size:  1 
+Color: 10485760
+Highlights: 0
+Plate background: 16777215
+Scale 1 - deleted tics: 0
+Scale 2 - deleted tics: 0
+Scale 3 - deleted tics: 0
+Scale 4 - deleted tics: 0
+Scale 1 - deleted labels: 0
+Scale 2 - deleted labels: 0
+Scale 3 - deleted labels: 0
+Scale 4 - deleted labels: 0
+Relative font sizes:
+Scale 1: 1
+Scale 2: .7
+Aspect ratio: .75
+Number of correction points: 7
+Pair #1: 0 \ 0
+Pair #2: .15 \ .15
+Pair #3: .3 \ .3
+Pair #4: .5 \ .5
+Pair #5: .7 \ .7
+Pair #6: .85 \ .85
+Pair #7: 1 \ 1
+Print ticmarks and arcs:
+Scale 1: 0
+Scale 2: 0
+Deflection stops:
+Scale 1: 1
+Scale 2: .97
+Mirror: N
+Deflection starts:
+Scale 1: 0
+Scale 2: .015
+Text style 1: Arial
+Text style 2: Arial
+
