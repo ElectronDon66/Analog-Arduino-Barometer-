@@ -12,4 +12,6 @@ include <Adafruit_MCP4725.h>
 include <Adafruit_BMP085.h>
 include <Wire.h>
 
-Youtube video link  
+Youtube video link  https://youtu.be/wEBnhg_a_Wo 
+Note: Version 4 of the Barometer adds the 4 weather trending LEDS , Ver 4 of the schematic adds the LEDS and resistors , Ver 4 of the BOM adds the LED holders , LEDS and resistors 
+Barometer_Mechanical_gage4.ino is the Arduino software with functioning LED controls working
