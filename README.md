@@ -15,3 +15,4 @@ include <Wire.h>
 Youtube video link  https://youtu.be/wEBnhg_a_Wo 
 Note: Version 4 of the Barometer adds the 4 weather trending LEDS , Ver 4 of the schematic adds the LEDS and resistors , Ver 4 of the BOM adds the LED holders , LEDS and resistors 
 Barometer_Mechanical_gage4.ino is the Arduino software with functioning LED controls working. The Steampunk.mov files show what the mounted meter looks like with the LEDS 
+Verson 5 fixes the stuck yellow LED and cleaned up the code and comments a bit. 
